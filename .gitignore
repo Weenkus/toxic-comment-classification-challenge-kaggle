@@ -102,4 +102,5 @@ ENV/
 
 # Kaggle specifics
 input
+embeddings
 
